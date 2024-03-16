@@ -1,7 +1,7 @@
 # 50 Exercicos de Python Nivel Básico
 
-- 1. Escreva um programa que imprima "Olá, Mundo!".
-- 2. Escreva um programa que peça ao usuário seu nome e idade e os imprima.
+-  1. Escreva um programa que imprima "Olá, Mundo!".
+-  2. Escreva um programa que peça ao usuário seu nome e idade e os imprima.
 - 3. Escreva um programa que calcule a área de um círculo dado o raio.
 - 4. Escreva um programa que resolva uma equação quadrática.
 - 5. Escreva um programa que inverta uma string.
